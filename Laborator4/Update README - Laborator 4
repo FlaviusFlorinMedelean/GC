@@ -1,0 +1,14 @@
+ Laborator 4 - BouncyCube
+
+Aplicatie Android folosind OpenGL ES pentru randarea unui cub 3D animat.
+
+Modificari realizate:
+- schimbare ordine transformari
+- scalare cub (glScalef)
+- modificare zNear si zFar
+- modificare field of view
+- translatia pe axa Z
+- backface culling
+
+Observatii:
+Modificarea parametrilor afecteaza vizualizarea cubului (dimensiune, pozitie, vizibilitate).
